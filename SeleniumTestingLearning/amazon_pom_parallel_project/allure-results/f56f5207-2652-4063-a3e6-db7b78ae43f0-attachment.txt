@@ -1,0 +1,3 @@
+ Fallback results displayed. Amazon likely returned sponsored or suggested items.
+ Invalid search handled correctly.
+✅ Task 7 Completed

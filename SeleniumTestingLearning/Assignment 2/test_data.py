@@ -1,0 +1,12 @@
+class TestData:
+    EMAIL = "avinash.dixit@rtctek.com"
+    PASSWORD = "Qwsa@123"
+    COMPANY = "RTCTEK"
+    PHONE = "9876543212"
+    FIRST_NAME = "Avinash"
+    LAST_NAME = "Dixit"
+    DATE = "25-06-2025"
+    FILE_PATH = "C:\\Users\\Avinash Dixit\\OneDrive\\Desktop\\Avinash Testing file.pdf"
+    PROMPT_TEXT = "welcome"
+    XPATH_INPUT = "//li[normalize-space()='Item 1']"
+    VALUE="volvo"
